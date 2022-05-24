@@ -1,0 +1,16 @@
+Thumbs.db
+*.DS_Store
+.AppleDouble
+.LSOverride
+.idea/
+/out/
+gradle-app.setting
+!gradle-wrapper.jar
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+
+.gradle
+**/build/
+!src/**/build/
